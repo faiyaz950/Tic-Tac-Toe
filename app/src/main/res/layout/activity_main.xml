@@ -134,6 +134,7 @@
     <TextView
         android:layout_width="70dp"
         android:layout_height="wrap_content"
+
         android:layout_gravity="end"
         android:fontFamily="@font/almendra_sc"
         android:text="Faiyaz Mujtaba"
